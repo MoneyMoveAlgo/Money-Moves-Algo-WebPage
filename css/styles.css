@@ -71,7 +71,7 @@ h1 {
 }
 
 .wave2 .shape-fill {
-    fill: #00DBFF;
+    fill: hsl(188, 97%, 46%);
 }
 
 a.link:link,
