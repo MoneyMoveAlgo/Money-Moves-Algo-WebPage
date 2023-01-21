@@ -25,7 +25,7 @@ h2 {
 }
 
 h1 {
-    color: #38d9ba;
+    color: #00DBFF;
 }
 
 .wave1 {
@@ -49,7 +49,7 @@ h1 {
 }
 
 .mintgreen {
-    background-color: #368778;
+    background-color: #00DBFF;
     z-index: 1;
 }
 
@@ -71,7 +71,7 @@ h1 {
 }
 
 .wave2 .shape-fill {
-    fill: #368778;
+    fill: #00DBFF;
 }
 
 a.link:link,
@@ -124,7 +124,7 @@ img {
 
 .bbox {
     border-radius: 25px;
-    background: #38d9ba;
+    background: #00DBFF;
     padding: 20px;
     margin: 10px;
     width: auto;
@@ -138,7 +138,7 @@ img {
     border-radius: 10px;
     border-style: solid;
     border-width: 2px;
-    border-color: #368778;
+    border-color: #00DBFF;
     padding: 10px;
     margin: 10px;
     width: auto;
@@ -149,7 +149,7 @@ img {
 }
 
 .mbox:hover {
-    background-color: #368778;
+    background-color: #00DBFF;
 }
 
 .lbox {
@@ -166,7 +166,7 @@ img {
 }
 
 pl {
-    color: #38d9ba;
+    color: #00DBFF;
     text-decoration: none;
     font-weight: 100;
     padding-left: 15%;
@@ -264,7 +264,7 @@ a:link {
         transform: rotateY(180deg);
     }
     .wave2 .shape-fill {
-        fill: #368778;
+        fill: #00DBFF;
     }
     .panel {
         padding: 0px 18px;
@@ -307,7 +307,7 @@ a:link {
         padding: 0;
     }
     pl {
-        color: #38d9ba;
+        color: #00DBFF;
         text-decoration: none;
         font-weight: 100;
         padding-left: 0%;
@@ -324,7 +324,7 @@ a:link {
     font-size: 15px;
     transition: 0.4s;
     font-family: 'Montserrat', sans-serif;
-    border-top-color: #368778;
+    border-top-color: #00DBFF;
     border-left-color: transparent;
     border-right-color: transparent;
     border-bottom-color: transparent;
