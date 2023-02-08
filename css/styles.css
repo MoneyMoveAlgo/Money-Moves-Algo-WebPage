@@ -49,9 +49,10 @@ h1 {
 }
 
 .mintgreen {
-    background-color: #00DBFF;
+    background-color: #00c1df;
     z-index: 1;
 }
+
 
 .wave2 {
     position: absolute;
@@ -71,7 +72,7 @@ h1 {
 }
 
 .wave2 .shape-fill {
-    fill: #00DBFF;
+    fill: #00c1df;
 }
 
 a.link:link,
