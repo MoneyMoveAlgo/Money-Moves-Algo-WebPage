@@ -49,7 +49,7 @@ h1 {
 }
 
 .mintgreen {
-    background-color: #00c1df;
+    background-color: #00DBFF;
     z-index: 1;
 }
 
@@ -72,7 +72,7 @@ h1 {
 }
 
 .wave2 .shape-fill {
-    fill: #00c1df;
+    fill: #00DBFF;
 }
 
 a.link:link,
