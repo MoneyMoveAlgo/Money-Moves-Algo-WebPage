@@ -32,3 +32,28 @@ window.addEventListener('resize', scrollFade);
 document.addEventListener('DOMContentLoaded', function() {
     scrollFade();
 });
+
+
+//visitors count 
+
+const countEl = document.getElementById('count');
+
+updateVisitCount();
+
+function updateVisitCount() {
+	fetch('https://api.countapi.xyz/hit/moneymovesalgo.netlify/visits')
+	.then(res => res.json())
+	.then(res => {
+		countEl.innerHTML = res.value;
+	})
+}
+
+
+
+
+
+
+
+
+
+
